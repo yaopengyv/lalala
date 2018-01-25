@@ -1,0 +1,121 @@
+{
+	"one" : {
+		"name" : "家居用品",
+		"src":"twosp3-jj1.jpg",
+		"list" :[
+				{
+					"id" :"shop1",
+					"name" :"贝奇特负离子竹炭乳胶床垫-1.5",
+					"src" : "twosp3-jj2.jpg",
+					"price" : "¥1,199.00"
+				},
+				{
+					"id" :"shop2",
+					"name" :"楠皇阁非洲酸枝客厅大全套",
+					"src" : "twosp3-jj3.jpg",
+					"price" : "¥57,000.00"
+				},
+				{
+					"id" :"shop3",
+					"name" :"法国森蕊温馨卧室感恩回馈组",
+					"src" : "twosp3-jj4.jpg",
+					"price" : "¥7,999.00"
+				},
+				{
+					"id" :"shop4",
+					"name" :"DNC智能马桶盖",
+					"src" : "twosp3-jj5.jpg",
+					"price" : "¥1,399.00"
+				},
+				{
+					"id" :"shop5",
+					"name" :"荣事达除氯控温电热水壶家庭组",
+					"src" : "twosp3-jj6.jpg",
+					"price" : "¥299.00"
+				},
+				{
+					"id" :"shop6",
+					"name" :"匠具师滤净省水器",
+					"src" : "twosp3-jj7.jpg",
+					"price" : "¥199.00"
+				}
+		]
+		
+	},
+	"two" : {
+		"name" : "卧室用品",
+		"src"  :"twosp3-ws1.jpg",
+		"list" : [
+				{
+					"id" :"shop1",
+					"name" :"薇依爱的绽放植物羊绒四件套",
+					"src" : "twosp3-ws2.jpg",
+					"price" : "¥109.00"
+				},
+				{
+					"id" :"shop2",
+					"name" :"薇依花间丛林植物羊绒四件套",
+					"src" : "twosp3-ws3.jpg",
+					"price" : "¥99.00"
+				},
+				{
+					"id" :"shop3",
+					"name" :"薇依蔷薇之恋柔棉四件套",
+					"src" : "twosp3-ws4.jpg",
+					"price" : "¥149.00"
+				},
+				{
+					"id" :"shop4",
+					"name" :"薇依七色花柔棉四件套",
+					"src" : "twosp3-ws5.jpg",
+					"price" : "¥149.00"
+				}
+				
+	]
+	},
+	"three" : {
+		"name" : "厨浴电器",
+		"src"  :"twosp3-cy1.jpg",
+		"list" : [
+				{
+					"id" :"shop1",
+					"name" :"德国品质*AIDIOL不锈钢组",
+					"src" : "twosp3-cy2.jpg",
+					"price" : "¥299.00"
+				},
+				{
+					"id" :"shop2",
+					"name" :"德国爱乐仕大口径荣耀锅具组",
+					"src" : "twosp3-cy3.jpg",
+					"price" : "¥888.00"
+				},
+				{
+					"id" :"shop3",
+					"name" :"韩国CLARA多功能绞肉机",
+					"src" : "twosp3-cy4.jpg",
+					"price" : "¥299.00"
+				},
+				{
+					"id" :"shop4",
+					"name" :"德国进口KRAME经典厨房组",
+					"src" : "twosp3-cy5.jpg",
+					"price" : "¥1,680.00"
+				},
+				{
+					"id" :"shop5",
+					"name" :"四季沐歌WOW反渗透净水机",
+					"src" : "twosp3-cy6.jpg",
+					"price" : "¥2,580.00"
+				},
+				{
+					"id" :"shop6",
+					"name" :"Bear/小熊 咖啡机KFJ-403",
+					"src" : "twosp3-cy7.jpg",
+					"price" : "¥89.00"
+				}
+		
+		]
+	
+	}
+
+}

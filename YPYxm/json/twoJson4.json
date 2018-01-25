@@ -1,0 +1,84 @@
+{
+	"one" : {
+		"name" : "茶酒礼品",
+		"src":"twosp4-jiu1.gif",
+		"list" :[
+				{
+					"id" :"shop1",
+					"name" :"茅台集团技开富贵万年20封坛-H",
+					"src" : "twosp4-jiu2.jpg",
+					"price" : "¥799.00"
+				},
+				{
+					"id" :"shop2",
+					"name" :"肴之宝淡干海参尊享组合",
+					"src" : "twosp4-jiu3.jpg",
+					"price" : "¥899.00"
+				},
+				{
+					"id" :"shop3",
+					"name" :"荣耀600莱斯特古堡干红",
+					"src" : "twosp4-jiu4.jpg",
+					"price" : "¥599.00"
+				},
+				{
+					"id" :"shop4",
+					"name" :"五粮液恭喜发财暖心组",
+					"src" : "twosp4-jiu5.png",
+					"price" : "¥498.00"
+				},
+				{
+					"id" :"shop5",
+					"name" :"杭州西湖龙井春茶超值组",
+					"src" : "twosp4-jiu6.jpg",
+					"price" : "¥298.00"
+				},
+				{
+					"id" :"shop6",
+					"name" :"茅台集团金装五星原浆酒",
+					"src" : "twosp4-jiu7.jpg",
+					"price" : "¥598.00"
+				}
+		]
+		
+	},
+	"two" : {
+		"name" : "营养食品",
+		"src"  :"twosp4-ls1.jpg",
+		"list" : [
+				{
+					"id" :"shop1",
+					"name" :"润盈无添加手工酸奶粉健康组",
+					"src" : "twosp4-ls2.jpg",
+					"price" : "¥89.00"
+				},
+				{
+					"id" :"shop2",
+					"name" :"六十里有机即食海参豪华组",
+					"src" : "twosp4-ls3.jpg",
+					"price" : "¥1,598.00"
+				},
+				{
+					"id" :"shop3",
+					"name" :"森山铁皮石斛冲剂养生健康大组",
+					"src" : "twosp4-ls4.jpg",
+					"price" : "¥999.00"
+				},
+				{
+					"id" :"shop4",
+					"name" :"丹麦进口纽诺迪科蕾舒压片糖果",
+					"src" : "twosp4-ls5.jpg",
+					"price" : "¥358.00"
+				},
+				{
+					"id" :"shop4",
+					"name" :"冠斛传奇铁皮石斛滋养组",
+					"src" : "twosp4-ls6.jpg",
+					"price" : "¥888.00"
+				}
+				
+	]
+	}
+	
+
+}
