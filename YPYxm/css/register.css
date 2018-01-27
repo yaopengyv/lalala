@@ -1,0 +1,27 @@
+header,html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,fieldset,legend,img,input,figure{margin:0;padding:0}
+body{font-family: "微软雅黑";}
+ul,ol,li{list-style:none;}
+b,strong{font-weight:100;}
+em,i{font-style:normal;}
+h1,h2,h3,h4,h5,h6{font-weight:100;font-size:16px;}
+a,u{text-decoration: none;}
+input,select{outline:none;}
+img{display:block;border:0;}
+.clearfix:after{content:".";clear:both;display:block;height:0;overflow: hidden;visibility: hidden;}
+.clearfix{zoom:1;}
+
+#ZC{height:592px;width:982px;border:1px solid #666666;margin:40px auto 20px auto}
+#ZC .z_top{height:38px;border-bottom:1px solid #666666;background:#E6E6E6;padding-left:15px;}
+#ZC .z_top h1{line-height: 37px;height:37px;font-size: 16px;color:#444;font-weight: 900;float:left}
+#ZC .z_top p{text-align: center;line-height: 37px;height:37px;float:right;font-size:14px}
+#ZC .z_top p a{/*display:block;*/margin-right:5px;background:#FC4C65;padding:3px 7px;color:#fff;font-size:14px}
+#ZC .z_bottom{width:910px;padding:40px 40px 25px;float:left;height:488px}
+#ZC .z_bottom .phone{height:28px;border-bottom:1px solid #444}
+#ZC .z_bottom .phone a{float:left}
+#ZC .z_bottom form{height:400;width:450px;margin:60px auto}
+#ZC .z_bottom form span{color:red;margin-right:4px;}
+#ZC .z_bottom form i{color:#333;font-size:12px;line-height:24px;}
+#ZC .z_bottom form input{height:24px;line-height:24px;margin-top:0px;margin-bottom:40px;border:1px solid #ccc;padding:0 3px 0 3px;}
+#ZC .z_bottom form .sub{width:128px;height:27px;text-align: center;line-height: 27px;background: #FC4C65;color:#fff;margin:0 auto;float:left;margin-left:80px}
+#ZC .z_bottom form b{display:block;height:20px;width:20px;background: url(../images/zq.gif) no-repeat;float:right;display:none;margin-right:170px;}
+#ZC .z_bottom form u{color:red;font-size:12px;}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="css/public.css" />
+		<link rel="stylesheet" href="css/register.css" />
+	</head>
+	<script>
+		window.onload=function(){
+			pub();
+
+		}
+	</script>
+	
+	<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="js/register.js"></script>
+	<script src="js/require.js" data-main="js/register2"></script>
+	
+	<body>
+		<div id="head"></div>
+		<div id="head1"></div>
+		<div id="head2"></div>
+		
+		<div id="ZC">
+			<div class="z_top">
+				<h1>注册新用户</h1>
+				<p>我已注册，现在就<a href="loginDL.html">登录</a></p>
+			</div>
+			<div class="z_bottom">
+				<div class="phone"><a href="#"><img src="images/zcphone.gif"/></a></div>
+			<form action="loginDL.html"><!---->	
+					<span>*</span><i>用 &nbsp;户 &nbsp;名 ：</i><input type="text" id="uname"/><b id="s1"></b><u id="s11"></u><br>
+					<span>*</span><i>密&nbsp; &nbsp; &nbsp; &nbsp;码 ：</i><input type="text" id="upwd"/><b id="s2"></b><u id="s22"></u><br>
+					<span>*</span><i>确认密码 ：</i><input type="text" id="qpwd"/><b id="s3"></b><u id="s33"></u><br>
+					<input type="submit" value="注册" class="sub"/>
+			</form>
+			</div>
+			
+		</div>
+		
+		<div id="foot"></div>
+	</body>
+</html>

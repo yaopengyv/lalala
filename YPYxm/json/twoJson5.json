@@ -1,5 +1,5 @@
 {
-	"one" : {
+	"one-5" : {
 		"name" : "珠宝配饰",
 		"src":"twosp5-zb1.gif",
 		"list" :[
@@ -7,42 +7,48 @@
 					"id" :"shop1",
 					"name" :"简.珠宝天然缅甸翡翠手链",
 					"src" : "twosp5-zb2.jpg",
-					"price" : "¥149.00"
+					"price" : "¥149.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop2",
 					"name" :"简.珠宝玉髓佛珠手链",
 					"src" : "twosp5-zb3.jpg",
-					"price" : "¥99.00"
+					"price" : "¥99.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop3",
 					"name" :"简.珠宝蓝水晶元素项链",
 					"src" : "twosp5-zb4.jpg",
-					"price" : "¥189.00"
+					"price" : "¥189.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop4",
 					"name" :"顺然天然A货翡翠平安扣套组",
 					"src" : "twosp5-zb5.jpg",
-					"price" : "¥599.00"
+					"price" : "¥599.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop5",
 					"name" :"简.珠宝缅甸翡翠毛衣链",
 					"src" : "twosp5-zb6.jpg",
-					"price" : "¥469.00"
+					"price" : "¥469.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop6",
 					"name" :"J.CN三生三世和田玉转运珠",
 					"src" : "twosp5-zb7.jpg",
-					"price" : "¥199.00"
+					"price" : "¥199.00",
+					"sm" :"public.png"
 				}
 		]
 		
 	},
-	"two" : {
+	"two-5" : {
 		"name" : "收藏品",
 		"src"  :"twosp5-sc1.jpg",
 		"list" : [
@@ -50,13 +56,15 @@
 					"id" :"shop1",
 					"name" :"《家和福顺》四方斗玉雕画",
 					"src" : "twosp5-sc2.jpg",
-					"price" : "¥2,980.00"
+					"price" : "¥2,980.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop2",
 					"name" :"《孔明出山》粉彩棋子瓶",
 					"src" : "twosp5-sc3.jpg",
-					"price" : "¥2,980.00"
+					"price" : "¥2,980.00",
+					"sm" :"public.png"
 				}
 	]
 	}

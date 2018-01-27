@@ -1,5 +1,5 @@
 {
-	"one" : {
+	"one-2" : {
 		"name" : "鞋帽配饰",
 		"src":"twosp2-fs1.gif",
 		"list" :[
@@ -7,42 +7,48 @@
 					"id" :"shop1",
 					"name" :"金帝企鹅时尚女鞋1+1+1组合",
 					"src" : "twosp2-fs2.jpg",
-					"price" : "¥199.00"
+					"price" : "¥199.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop2",
 					"name" :"香港U-CLASS钛合金双光老视镜",
 					"src" : "twosp2-fs3.jpg",
-					"price" : "¥199.00"
+					"price" : "¥199.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop3",
 					"name" :"金帝企鹅时尚男棉鞋组合",
 					"src" : "twosp2-fs4.jpg",
-					"price" : "¥199.00"
+					"price" : "¥199.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop4",
 					"name" :"库肯卡波恩时尚先生男鞋劲爆组",
 					"src" : "twosp2-fs5.jpg",
-					"price" : "¥339.00"
+					"price" : "¥339.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop5",
 					"name" :"奇安达超轻时尚运动男鞋组",
 					"src" : "twosp2-fs6.jpg",
-					"price" : "¥199.00"
+					"price" : "¥199.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop6",
 					"name" :"益雅鸟休闲豆豆女鞋超值组",
 					"src" : "twosp2-fs7.jpg",
-					"price" : "¥99.00"
+					"price" : "¥99.00",
+					"sm" :"public.png"
 				}
 		]
 		
 	},
-	"two" : {
+	"two-2" : {
 		"name" : "手表",
 		"src"  :"twosp2-wb1.jpg",
 		"list" : [
@@ -50,24 +56,27 @@
 					"id" :"shop1",
 					"name" :"三度士耀眼镂空真钻机械男表",
 					"src" : "twosp2-wb2.jpg",
-					"price" : "¥699.00"
+					"price" : "¥699.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop2",
 					"name" :"浪威闪耀之星机械表",
 					"src" : "twosp2-wb3.jpg",
-					"price" : "¥1,380.00"
+					"price" : "¥1,380.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop3",
 					"name" :"三度士璀璨镂空真钻机械男表",
 					"src" : "twosp2-wb4.jpg",
-					"price" : "¥799.00"
+					"price" : "¥799.00",
+					"sm" :"public.png"
 				}
 				
 	]
 	},
-	"three" : {
+	"three-2" : {
 		"name" : "服饰内衣",
 		"src"  :"twosp2-ny1.jpg",
 		"list" : [
@@ -75,31 +84,36 @@
 					"id" :"shop1",
 					"name" :"古弗奥流光溢彩貂领绵羊皮大衣",
 					"src" : "twosp2-ny2.jpg",
-					"price" : "¥1,399.00"
+					"price" : "¥1,399.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop2",
 					"name" :"愷撒名奴情定暖冬刺绣大衣",
 					"src" : "twosp2-ny3.jpg",
-					"price" : "¥299.00"
+					"price" : "¥299.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop3",
 					"name" :"微莎蒂娜霜影蓝狐炫彩皮鹅绒服",
 					"src" : "twosp2-ny4.jpg",
-					"price" : "¥1,280.00"
+					"price" : "¥1,280.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop4",
 					"name" :"芭比爆汗瘦腿健身七分裤",
 					"src" : "twosp2-ny5.jpg",
-					"price" : "¥109.00"
+					"price" : "¥109.00",
+					"sm" :"public.png"
 				},
 				{
 					"id" :"shop5",
 					"name" :"芭比高腰定位收腹提臀裤5件",
 					"src" : "twosp2-ny6.jpg",
-					"price" : "¥159.00"
+					"price" : "¥159.00",
+					"sm" :"public.png"
 				}
 		
 		]

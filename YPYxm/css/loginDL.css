@@ -1,0 +1,27 @@
+header,html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,fieldset,legend,img,input,figure{margin:0;padding:0}
+body{font-family: "微软雅黑";}
+ul,ol,li{list-style:none;}
+b,strong{font-weight:100;}
+em,i{font-style:normal;}
+h1,h2,h3,h4,h5,h6{font-weight:100;font-size:16px;}
+a,u{text-decoration: none;}
+input,select{outline:none;}
+img{display:block;border:0;}
+.clearfix:after{content:".";clear:both;display:block;height:0;overflow: hidden;visibility: hidden;}
+.clearfix{zoom:1;}
+
+#DL{height:286px;width:1000px;margin:40px auto 20px auto;border:1px solid #444;}
+#DL .dl_top{height:38px;background: #e6e6e6;border-bottom:1px solid #444;}
+#DL .dl_top p{height:38px;line-height: 38px;color:#444;font-size: 16px;float:left;margin-left:4px;font-weight: 900;}
+#DL .dl_bottom {height:220px;width:934px;padding:15px 40px 10px 24px;}
+#DL .dl_bottom .bt_l{width:560px;height:220px;float:left;background: ;border-right:1px dashed #e7e7e7;}
+#DL .dl_bottom .bt_l form{padding-top:20px;height:200px}
+#DL .dl_bottom .bt_l form span{color:red;margin-right:4px;}
+#DL .dl_bottom .bt_l form i{font-size: 12px;color:#333}
+#DL .dl_bottom .bt_l form input{height:24px;line-height:24px;margin-top:0px;margin-bottom:40px;border:1px solid #ccc;padding:0 3px 0 3px;}
+#DL .dl_bottom .bt_l form .sub{width:100px;height:27px;text-align: center;line-height: 27px;background: #FC4C65;color:#fff;margin:0 auto;float:left;margin-left:58px}
+#DL .dl_bottom .bt_r{width:300px;height:178px;background: ;float:right}
+#DL .dl_bottom .bt_r h4{height:64px;line-height: 64px;font-size: 14px;color:#333;font-weight: 900;}
+#DL .dl_bottom .bt_r p{padding-top:3px;height:44px;line-height:22px;font-size: 12px;color:#333;margin-bottom:38px;}
+#DL .dl_bottom .bt_r .btn1{width:136px;height:30px;background: #fc4c65;}
+#DL .dl_bottom .bt_r .btn1 a{display:block;height:30px;width:136px;color:#fff;line-height: 30px;text-align: center;}
