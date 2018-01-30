@@ -7,14 +7,19 @@
 					"name" :"日本进口山本汉方控压茶压流茶",
 					"src" : "twosp-2.jpg",
 					"price" : "¥166.00",
+					"yPrice" : "¥299.00",
 					"little" : "twoj1-1l.jpg",
-					"sm" : "twoj1-1s.jpg"
+					"little1" : "twoj1-2l.jpg",
+					"sm" : "twoj1-1s.jpg",
+					"sm1" : "twoj1-2s.jpg"
+					
 				},
 				{
 					"id" :"shop2",
 					"name" :"美白保湿收毛孔薏仁水",
 					"src" : "twosp-3.jpg",
 					"price" : "¥140.00",
+					"yPrice" : "¥399.00",
 					"little" : "twoj1-2l.jpg",
 					"sm" : "twoj1-2s.jpg"
 				},
@@ -23,6 +28,7 @@
 					"name" :"薏仁保湿面霜175g-D",
 					"src" : "twosp-4.jpg",
 					"price" : "¥109.00",
+					"yPrice" : "¥299.00",
 					"little" : "twoj1-3l.jpg",
 					"sm" : "twoj1-3s.jpg"
 				},
@@ -31,6 +37,7 @@
 					"name" :"日本发根生发防脱营养水-D",
 					"src" : "twosp-5.jpg",
 					"price" : "¥106.00",
+					"yPrice" : "¥199.00",
 					"little" : "twoj1-4l.jpg",
 					"sm" : "twoj1-4s.jpg"
 				},
@@ -39,6 +46,7 @@
 					"name" :"抗氧化胶囊（水素水）-D",
 					"src" : "twosp-6.jpg",
 					"price" : "¥463.00",
+					"yPrice" : "¥699.00",
 					"little" : "twoj1-5l.jpg",
 					"sm" : "twoj1-5s.jpg"
 				},
@@ -47,6 +55,7 @@
 					"name" :"日本儿童用牙膏-D",
 					"src" : "twosp-7.jpg",
 					"price" : "¥65.00",
+					"yPrice" : "¥99.00",
 					"little" : "twoj1-6l.jpg",
 					"sm" : "twoj1-6s.jpg"
 				}

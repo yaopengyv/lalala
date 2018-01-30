@@ -1,6 +1,6 @@
 #page{
     height:512px;
-    .page_con{height:512px;width:1260px;margin:0 auto;background:skyblue;
+    .page_con{height:512px;width:1260px;margin:0 auto;
             .top_con{height:24px;padding:8px 0px;border-bottom: 1px solid #f5f5f5;border-top: 1px solid #f5f5f5;
                     ul{
                             li{float:left;
@@ -25,7 +25,7 @@
                             }
                     }
             }
-            .bot_con{height:418px;background:palegreen;margin-top:12px;padding:20px 0px;
+            .bot_con{height:418px;margin-top:12px;padding:20px 0px;
                     .l{
                         float:left;
                         width:94px;
@@ -34,26 +34,26 @@
                         padding-top: 8px;
                         overflow: hidden;
                         margin-top:-8px;
-                        background: palegoldenrod;
+
                         img{
                             width:94px
                         }
                     }
                     .c1{
                         float:left;
-                        width:380px;
-                        height:380px;
-                        border:1px solid #ccc;
+                        width:478px;
+                        height:400px;
                         margin-left:20px;
-                        background: palevioletred;
                         margin-right:14px;
                         position:relative;
                         .small-img{
+                             border:1px solid #ccc;
                             height:380px;
                             width:380px;
                             position: absolute;
-                            left:0;
+                            left:100px;
                             top:0;
+                            overflow: hidden;
                             img{
                               height:380px;
                               width:380px;  
@@ -75,7 +75,7 @@
                         .big-img{
                             position:absolute;
                             top:0;
-                            left:400px;
+                            left:500px;
                             height:400px;
                             width:400px;
                             overflow: hidden;
@@ -94,7 +94,33 @@
                         width:440px;
                         height:314px;
                         margin-right: 46px;
-                        background: peru;
+                        .updateCount{
+                            display:block;
+                            height:30px;
+                            width:30px;
+                            background:#ccc;
+                            float:left;
+                            font-size:30px;
+                            line-height: 30px;
+                            text-align: center;
+                            color:#555555;
+                            cursor:pointer;
+                            &:hover{color:#BB0000}
+                        }
+                        .shop-count{
+                            display:block;
+                            height: 28px;
+                            width:60px;
+                            border:1px solid #ccc;
+                            float:left;
+                            color:#333;
+                            line-height:30px;
+                            text-align: center;
+                        }
+                        .addbox{
+                            height:40px;
+                            margin-top:120px;
+                        }
                         p{
                             height:32px;
                             width:100%;
@@ -127,25 +153,31 @@
                                 font-weight: 900;
 
                             }
+                            span{
+                                font-size:14px;
+                                color:#333;
+                                text-decoration: line-through;
+                                margin-left: 10px;
+                            }
                         }
                         
                         input{
                             height:30px;
                             width:92px;
-                            background:palegreen;
+                            background:forestgreen;
                             color:#fff;
                             line-height: 30px;
                             text-align: center;
                             border:0;
                             margin-top:50px;
-                            margin-left:20px;
+                            cursor: pointer;
                         }
                     }
                     .r{
                         width:244px;
                         height:340px;
                         float:left;
-                        background: yellow;
+
                         .r-t{
                             height:264px;
                             width:198px;

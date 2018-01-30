@@ -1,5 +1,5 @@
-function LB(){
 	var flag=true;
+function LB(){
 	var timer=setInterval(autoplay,3000);
 	var index=0;
 	function autoplay(){
@@ -14,21 +14,38 @@ function LB(){
 								  
 								  
 		$("#banner .banner ul li").eq(index)
-		                          .animate({"opacity":1},1000)
+		                          .animate({"opacity":1},1000,function(){
+								/*	flag=true;		*/
+									flag=true;
+									console.log(flag)
+									
+		                          })
 		                          .siblings()
-		                          .animate({"opacity":0},1000)
+		                          .animate({"opacity":0},1000,function(){
+//									flag=true;
+		                          })
+		                          
+		                          
 		                         }
 	
 		
+	if(flag){	
 	$("#banner .banner ol li").mouseenter(function(){
 		//alert()
+		flag=false;
 		clearInterval(timer);
 		index = $(this).index()-1;
 		autoplay();
+		//flag=true;		
+		console.log(flag)
 	})
 	$("#banner .banner ol li").mouseleave(function(){
+		
 		timer= setInterval(autoplay,3000);
 	})
+	
+	}
+	
 	$("#banner .banner ul li").mouseenter(function(){
 		clearInterval(timer);
 	}).mouseleave(function(){
@@ -38,7 +55,7 @@ function LB(){
 	
 }
 function LB2(){
-	var timer=setInterval(autoplay,4000);
+	var timer=setInterval(autoplay,2500);
 	var index=0;
 	var bt=$(".lbtn li");
 	var im=$(".shopOne_con .bot_con .left ul")

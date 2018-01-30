@@ -2,14 +2,15 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title></title>
+		<title>风尚购物注册页</title>
 		<link rel="stylesheet" href="css/public.css" />
 		<link rel="stylesheet" href="css/register.css" />
 	</head>
 	<script>
 		window.onload=function(){
 			pub();
-
+			checkYzm();
+			yzmRe();
 		}
 	</script>
 	
@@ -33,6 +34,7 @@
 					<span>*</span><i>用 &nbsp;户 &nbsp;名 ：</i><input type="text" id="uname"/><b id="s1"></b><u id="s11"></u><br>
 					<span>*</span><i>密&nbsp; &nbsp; &nbsp; &nbsp;码 ：</i><input type="text" id="upwd"/><b id="s2"></b><u id="s22"></u><br>
 					<span>*</span><i>确认密码 ：</i><input type="text" id="qpwd"/><b id="s3"></b><u id="s33"></u><br>
+					<div id="bbb"><span>*</span><i>验 证 码&nbsp; ：</i><input type="text" id="yzm"/><div class="yzm"></div><!--<span class="yzmc">看不清？换一张</span>--><b id="s4"></b><u id="s44"></u><br></div>
 					<input type="submit" value="注册" class="sub"/>
 			</form>
 			</div>

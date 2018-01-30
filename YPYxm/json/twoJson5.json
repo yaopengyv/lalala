@@ -8,6 +8,7 @@
 					"name" :"简.珠宝天然缅甸翡翠手链",
 					"src" : "twosp5-zb2.jpg",
 					"price" : "¥149.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -15,6 +16,7 @@
 					"name" :"简.珠宝玉髓佛珠手链",
 					"src" : "twosp5-zb3.jpg",
 					"price" : "¥99.00",
+					"yPrice" : "¥199.00",
 					"sm" :"public.png"
 				},
 				{
@@ -22,6 +24,7 @@
 					"name" :"简.珠宝蓝水晶元素项链",
 					"src" : "twosp5-zb4.jpg",
 					"price" : "¥189.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -29,6 +32,7 @@
 					"name" :"顺然天然A货翡翠平安扣套组",
 					"src" : "twosp5-zb5.jpg",
 					"price" : "¥599.00",
+					"yPrice" : "¥999.00",
 					"sm" :"public.png"
 				},
 				{
@@ -36,6 +40,7 @@
 					"name" :"简.珠宝缅甸翡翠毛衣链",
 					"src" : "twosp5-zb6.jpg",
 					"price" : "¥469.00",
+					"yPrice" : "¥999.00",
 					"sm" :"public.png"
 				},
 				{
@@ -43,6 +48,7 @@
 					"name" :"J.CN三生三世和田玉转运珠",
 					"src" : "twosp5-zb7.jpg",
 					"price" : "¥199.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				}
 		]
@@ -57,6 +63,7 @@
 					"name" :"《家和福顺》四方斗玉雕画",
 					"src" : "twosp5-sc2.jpg",
 					"price" : "¥2,980.00",
+					"yPrice" : "¥5,499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -64,6 +71,7 @@
 					"name" :"《孔明出山》粉彩棋子瓶",
 					"src" : "twosp5-sc3.jpg",
 					"price" : "¥2,980.00",
+					"yPrice" : "¥5,499.00",
 					"sm" :"public.png"
 				}
 	]

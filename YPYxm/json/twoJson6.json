@@ -8,6 +8,7 @@
 					"name" :"艾尚彩植物精萃颗粒泡泡染",
 					"src" : "twosp6-hz2.jpg",
 					"price" : "¥238.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -15,6 +16,7 @@
 					"name" :"Skinlady槿兰水奇迹特惠组",
 					"src" : "twosp6-hz3.jpg",
 					"price" : "¥99.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -22,6 +24,7 @@
 					"name" :"歌丽姬宝美白祛斑精华霜-D",
 					"src" : "twosp6-hz4.jpg",
 					"price" : "¥99.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -29,6 +32,7 @@
 					"name" :"莱科妮玻尿酸高分子抗老组",
 					"src" : "twosp6-hz5.jpg",
 					"price" : "¥598.00",
+					"yPrice" : "¥999.00",
 					"sm" :"public.png"
 				},
 				{
@@ -36,6 +40,7 @@
 					"name" :"轩皙百变塑眉套装",
 					"src" : "twosp6-hz6.jpg",
 					"price" : "¥248.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				}
 		]
@@ -50,6 +55,7 @@
 					"name" :"Skinlady槿兰肌密精华组",
 					"src" : "twosp6-hf2.jpg",
 					"price" : "¥239.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -57,6 +63,7 @@
 					"name" :"Skinlady槿兰水奇迹特惠组",
 					"src" : "twosp6-hf3.jpg",
 					"price" : "¥99.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -64,6 +71,7 @@
 					"name" :"歌丽姬宝美白祛斑精华霜-D",
 					"src" : "twosp6-hf4.jpg",
 					"price" : "¥99.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				}
 	]
@@ -77,6 +85,7 @@
 					"name" :"Skinlady槿兰膏修护经典组",
 					"src" : "twosp6-hl2.jpg",
 					"price" : "¥299.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -84,6 +93,7 @@
 					"name" :"耶顿香爱懒人紧致腹膜组",
 					"src" : "twosp6-hl3.jpg",
 					"price" : "¥299.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -91,6 +101,7 @@
 					"name" :"耶顿香爱懒人贴肌肤紧实组",
 					"src" : "twosp6-hl4.jpg",
 					"price" : "¥299.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				},
 				{
@@ -98,6 +109,7 @@
 					"name" :"Skinlady槿兰水奇迹特惠组",
 					"src" : "twosp6-hl5.jpg",
 					"price" : "¥99.00",
+					"yPrice" : "¥499.00",
 					"sm" :"public.png"
 				}
 		]

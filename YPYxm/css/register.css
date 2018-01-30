@@ -22,6 +22,12 @@ img{display:block;border:0;}
 #ZC .z_bottom form span{color:red;margin-right:4px;}
 #ZC .z_bottom form i{color:#333;font-size:12px;line-height:24px;}
 #ZC .z_bottom form input{height:24px;line-height:24px;margin-top:0px;margin-bottom:40px;border:1px solid #ccc;padding:0 3px 0 3px;}
+#ZC .z_bottom form #bbb{height:34px;margin-bottom: 40px;position:relative}
+#ZC .z_bottom form #yzm{width:54px;}
+#ZC .z_bottom form .yzm{height:27px;width:60px;background: ;text-align:center;display:inline-block;margin-left:10px;position:absolute;top:0px;line-height: 27px;}
+#ZC .z_bottom form .yzmc{color:#333333;font-size:12px;display:inline-block;height:14px;width:80px;float:right;}
 #ZC .z_bottom form .sub{width:128px;height:27px;text-align: center;line-height: 27px;background: #FC4C65;color:#fff;margin:0 auto;float:left;margin-left:80px}
 #ZC .z_bottom form b{display:block;height:20px;width:20px;background: url(../images/zq.gif) no-repeat;float:right;display:none;margin-right:170px;}
 #ZC .z_bottom form u{color:red;font-size:12px;}
+#ZC .z_bottom form #s44{color:red;font-size:12px;position:absolute;left:220px;height:20px;line-height: 20px;width:200px;text-align: center;}
+#ZC .z_bottom form .yzmc{display:block;position:absolute;top:0;left:210px;height:20px;line-height: 20px;width:90px;text-align: center;}

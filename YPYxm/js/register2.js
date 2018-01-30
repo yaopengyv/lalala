@@ -9,7 +9,7 @@ requirejs.config({
 var arr=[];
 requirejs(["jquery","ref3","cookie"],function($,ref,ck){
 	$(".sub").click(function(){
-		if(flagName&&flagPwd&&flagQpwd){
+		if(flagName&&flagPwd&&flagQpwd&&flagYzm){
 			var json = {
 				"uname" : $("#uname").val(),
 				"upwd" : $("#upwd").val()
@@ -64,16 +64,17 @@ requirejs(["jquery","ref3","cookie"],function($,ref,ck){
 	
 	var flagQpwd=null;
 	$("#qpwd").blur(function(){
+		//console.log($("#upwd").val(),$("#qpwd").val())
 		if(ref.checkQpwd($("#upwd").val(),$("#qpwd").val())){
-			
-			$("#s3").css("display","block");
-			$("#s33").html("")
-			
 			flagQpwd = true;
+			$("#s3").css("display","block");
+			$("#s33").html("");
 		}else{
+			//alert();
+			flagQpwd = false;
 			$("#s33").html("输入的密码和原密码不一致！");
 			$("#s3").css("display","none");
-			flagQpwd = false;
 		}
 	})
+	
 })
